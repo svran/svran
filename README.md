@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Svran;Ranliulian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Svran;A_Svran_Love)](https://git.io/typing-svg)
 <!--
 **svran/svran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
